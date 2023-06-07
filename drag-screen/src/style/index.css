@@ -1,0 +1,2 @@
+/* todo css的@import会增大关键渲染路径，待优化 */
+@import "./tailwind.css";
